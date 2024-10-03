@@ -1,9 +1,13 @@
-import example.pepita
+import wollok.game.*
+import hector.*
+import cultivos.*
+import posiciones.*
+import granja.*
 
-describe "group of tests for pepita" {
+describe "" {
 
-  test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
+  test "" {
+    
   }
 
 }
